@@ -1,36 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Erika Shanahan",
-      "id": 2
-    },
-    {
-      "name": "Gustavo Toy",
-      "id": 3
-    },
-    {
-      "name": "Marie Hyatt",
-      "id": 4
-    },
-    {
-      "name": "Ms. Pamela Mills",
-      "id": 5
-    },
-    {
-      "name": "Mrs. Nadine Jast",
-      "id": 6
-    },
-    {
-      "name": "Rosa Wisoky Jr.",
-      "id": 7
-    },
-    {
       "name": "Samantha Waelchi",
       "id": 8
+    },
+    {
+      "name": "Gail Schmidt",
+      "id": 9
+    },
+    {
+      "name": "Ashley Emmerich",
+      "id": 10
+    },
+    {
+      "name": "Norma Hilll",
+      "id": 13
+    },
+    {
+      "name": "Madeline Schultz",
+      "id": 14
     }
   ],
   "albums": [],
