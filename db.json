@@ -1,7 +1,30 @@
 {
-    "users": [
-        {"id": 1, "name": "Myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Ashley Emmerich",
+      "id": 10
+    },
+    {
+      "name": "Madeline Schultz",
+      "id": 14
+    },
+    {
+      "name": "Dr. Cameron Bruen",
+      "id": 15
+    },
+    {
+      "name": "Mrs. Kelly Predovic",
+      "id": 16
+    },
+    {
+      "name": "Arnold Heathcote II",
+      "id": 17
+    },
+    {
+      "name": "Jennie Kreiger",
+      "id": 18
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
