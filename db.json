@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Ashley Emmerich",
-      "id": 10
-    },
-    {
       "name": "Madeline Schultz",
       "id": 14
     },
@@ -27,44 +23,29 @@
   ],
   "albums": [
     {
-      "id": 11,
-      "title": "Hiking Trip",
-      "userId": 10
+      "userId": 14,
+      "title": "Handcrafted Granite Pants",
+      "id": 2
     },
     {
-      "userId": 10,
-      "title": "Modern Plastic Pizza",
-      "id": 12
+      "userId": 14,
+      "title": "Small Plastic Pants",
+      "id": 3
     },
     {
-      "userId": 10,
-      "title": "Gorgeous Plastic Pants",
-      "id": 13
+      "userId": 14,
+      "title": "Practical Plastic Hat",
+      "id": 4
     },
     {
-      "userId": 10,
-      "title": "Awesome Frozen Salad",
-      "id": 14
+      "userId": 14,
+      "title": "Electronic Wooden Hat",
+      "id": 5
     },
     {
-      "userId": 10,
-      "title": "Fantastic Plastic Chips",
-      "id": 15
-    },
-    {
-      "userId": 10,
-      "title": "Oriental Rubber Shoes",
-      "id": 16
-    },
-    {
-      "userId": 10,
-      "title": "Tasty Cotton Shirt",
-      "id": 17
-    },
-    {
-      "userId": 10,
-      "title": "Recycled Concrete Towels",
-      "id": 18
+      "userId": 15,
+      "title": "Practical Plastic Salad",
+      "id": 7
     }
   ],
   "photos": []
