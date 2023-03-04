@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Ashley Emmerich",
-      "id": 10
-    },
-    {
       "name": "Madeline Schultz",
       "id": 14
     },
@@ -25,6 +21,58 @@
       "id": 18
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 14,
+      "title": "Electronic Wooden Hat",
+      "id": 5
+    },
+    {
+      "userId": 15,
+      "title": "Practical Plastic Salad",
+      "id": 7
+    },
+    {
+      "userId": 15,
+      "title": "Rustic Bronze Cheese",
+      "id": 9
+    },
+    {
+      "userId": 14,
+      "title": "Ergonomic Bronze Gloves",
+      "id": 10
+    },
+    {
+      "userId": 14,
+      "title": "Intelligent Granite Chips",
+      "id": 11
+    },
+    {
+      "userId": 14,
+      "title": "Sleek Soft Tuna",
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23511",
+      "id": 1
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21477",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86778",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11495",
+      "id": 4
+    }
+  ]
 }
