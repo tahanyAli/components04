@@ -25,6 +25,47 @@
       "id": 18
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 11,
+      "title": "Hiking Trip",
+      "userId": 10
+    },
+    {
+      "userId": 10,
+      "title": "Modern Plastic Pizza",
+      "id": 12
+    },
+    {
+      "userId": 10,
+      "title": "Gorgeous Plastic Pants",
+      "id": 13
+    },
+    {
+      "userId": 10,
+      "title": "Awesome Frozen Salad",
+      "id": 14
+    },
+    {
+      "userId": 10,
+      "title": "Fantastic Plastic Chips",
+      "id": 15
+    },
+    {
+      "userId": 10,
+      "title": "Oriental Rubber Shoes",
+      "id": 16
+    },
+    {
+      "userId": 10,
+      "title": "Tasty Cotton Shirt",
+      "id": 17
+    },
+    {
+      "userId": 10,
+      "title": "Recycled Concrete Towels",
+      "id": 18
+    }
+  ],
   "photos": []
 }
